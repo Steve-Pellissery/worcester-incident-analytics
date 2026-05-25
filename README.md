@@ -140,12 +140,16 @@ Critical demand windows, patrol prioritization insights, and operational resourc
 
 ## Dashboard Preview
 
-Add dashboard screenshots here.
+<img width="1352" height="770" alt="image" src="https://github.com/user-attachments/assets/0c13f26f-2de3-458c-af2b-c6766ce94d8d" />
+<img width="1344" height="761" alt="image" src="https://github.com/user-attachments/assets/90fd6073-b659-463a-ae63-8ff8d1a9d058" />
+<img width="1338" height="760" alt="image" src="https://github.com/user-attachments/assets/d0310c80-e72e-45bb-a12d-6b3389298fb0" />
+
 
 ---
 
 ## Author
 
 Steve Pellissery
+
 MS Business Analytics  
 Clark University
