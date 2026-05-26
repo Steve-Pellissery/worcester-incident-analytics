@@ -1,4 +1,4 @@
-# worcester-incident-analytics
+# Worcester-Incident-Analysis
 
 ## Project Overview
 
